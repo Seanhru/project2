@@ -14,7 +14,7 @@ The data was recorded between **March 2004 and February 2005**, and includes mea
 Each observation also includes **date** and **time** information for when pollutant concentrations were recorded.  
 
 **Original dataset:**  
-[UCI Machine Learning Repository – Air Quality Dataset](https://archive.ics.uci.edu/dataset/360/air+quality) [2]
+[UCI Machine Learning Repository – Air Quality Dataset](https://archive.ics.uci.edu/dataset/360/air+quality)
 
 ---
 
@@ -28,7 +28,7 @@ The data was gathered by **Saverio Vito** between **2004 and 2005**, and describ
 The dataset is publicly available through the **UC Irvine Machine Learning Repository** (linked above).  
 It was **downloaded on October 15, 2025**, and uploaded to this project’s GitHub repository:
 
-[GitHub Repository – DS 4002 Project 2](https://github.com/Seanhru/project2) [3]
+[GitHub Repository – DS 4002 Project 2](https://github.com/Seanhru/project2)
 
 Since download, the data has been **cleaned, modified, and analyzed** for this project.  
 All preprocessing steps, models, and results are **fully documented** in the repository.
