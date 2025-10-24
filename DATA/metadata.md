@@ -74,8 +74,7 @@ This ensures that results are not **misinterpreted or misused** in decision-maki
 ---
 
 ## Exploratory Plots
-
-![temp_vs_rh](temp_vs_rh.png)
-![correlation_heatmap_sensor](correlation_heatmap_sensor.png)
-![pairwise_relationships](pairwise_relationships.png)
+[EDA1.pdf](https://github.com/user-attachments/files/23126729/EDA1.pdf)
+[EDA2.pdf](https://github.com/user-attachments/files/23126731/EDA2.pdf)
+[EDA3.pdf](https://github.com/user-attachments/files/23126733/EDA3.pdf)
 
