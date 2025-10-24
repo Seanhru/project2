@@ -26,11 +26,13 @@ Documentation Map
 
 Data
 
-All-seasons.csv — original data file
-Metadata.md — description of data
-cleaned_dataset.csv — cleaned data file ready to be used in modeling
+OriginalAirQualityUCI.csv — original data file
+metadata.md — description of data
+cleaned_air_quality(eda).csv — cleaned data file ready for eda
+cleaned_air_quality(model).csv — cleaned data file ready for model usage
+predicted_airquality_next_month.csv - data for predicting future 
 
-Output
+Output ------------ START EDITING HERE
 
 Confusion_Matrix.png — confusion matrix from model
 Most_Common_Misclassifications.png — most common mistakes between the top 10 characters
@@ -50,6 +52,7 @@ DS Project 1 MI 1 — Milestone 1
 DS Project 1 MI 2 — Milestone 2
 License — license file
 README — ReadMe for project
+
 Instructions for Reproduction
 To run the exploratory analysis script:
 Download the All-seasons.csv file to a known location on your computer. Download the Exploratory Analysis South Park.R file to the same location.
